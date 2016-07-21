@@ -3,4 +3,4 @@ Microscopy ontology provided from RIKEN
 
 ### Update 160721
 
-RDF schamas uploaded
+RDF_Schema_ver0.1 uploaded
