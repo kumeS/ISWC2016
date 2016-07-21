@@ -1,7 +1,6 @@
 # ISWC2016
 Microscopy ontology provided from RIKEN
 
+### Update 160721
 
-### Schema Webarchive version
-
-You should download files and then open on your computer.
+RDF schamas uploaded
